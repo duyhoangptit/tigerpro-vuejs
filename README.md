@@ -100,3 +100,11 @@ props = props
 
 ## Vue router:
     https://viblo.asia/p/vue-router-trong-vue3-1VgZvrV9ZAw
+
+## Vue store with vuex
+	https://learnvue.co/tutorials/vuex-in-vue-3
+![img.png](img.png)image.png
+	`Flux: Giải pháp luồng dữ liệu một chiều`
+![img_1.png](img_1.png)
+	`npm install vuex --save`
+![img_2.png](img_2.png)
