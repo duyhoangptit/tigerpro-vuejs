@@ -48,7 +48,7 @@
 <script>
 
 import HelloWorld from './HelloWorld.vue'
-import {HTTP} from './../http-common';
+import {HTTP} from '../helpers/http-common';
 
 
 export default {
