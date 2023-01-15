@@ -103,8 +103,13 @@ props = props
 
 ## Vue store with vuex
 	https://learnvue.co/tutorials/vuex-in-vue-3
-![img.png](img.png)image.png
-	`Flux: Giải pháp luồng dữ liệu một chiều`
+![img.png](img.png)
+</br>`Flux: Giải pháp luồng dữ liệu một chiều`
 ![img_1.png](img_1.png)
-	`npm install vuex --save`
+</br>`npm install vuex --save`
 ![img_2.png](img_2.png)
+
+## scss
+	```
+	npm install sass-loader node-sass style-loader --save-dev
+	```

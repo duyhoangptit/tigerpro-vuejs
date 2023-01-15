@@ -1,5 +1,7 @@
 <template>
-  <button @click.prevent="activate">+1</button>
+  <div class="container">
+    <button @click.prevent="activate">+1</button>
+  </div>
 </template>
 
 <script>
@@ -14,3 +16,14 @@ export default {
   }
 }
 </script>
+<style lang="scss" scoped>
+  .container {
+    background-color: red;
+    display: flex;
+    flex-direction: column;
+
+    button {
+      color: blue;
+    }
+  }
+</style>
