@@ -113,3 +113,12 @@ props = props
 	```
 	npm install sass-loader node-sass style-loader --save-dev
 	```
+
+
+## deployment
+	```
+        docker-compose up -d
+
+        # Năm 2022 rồi thì dùng:
+        docker compose up -d
+    ```
